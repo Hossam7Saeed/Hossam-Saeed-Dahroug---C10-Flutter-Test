@@ -155,7 +155,7 @@ class ThirdHomeScreen extends StatelessWidget {
                           "Connect now and get expert insights",
                           style: TextStyle(fontSize: 14, fontWeight: FontWeight.w400),
                         ),
-                        SizedBox(height: 8.0), // Add spacing between texts and button
+                        SizedBox(height: 8.0),
                         InkWell(
                           onTap: () {},
                           child: Container(

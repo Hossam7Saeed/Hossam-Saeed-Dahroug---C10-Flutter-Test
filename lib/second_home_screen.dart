@@ -134,7 +134,7 @@ class _SecondHomeScreenState extends State<SecondHomeScreen> {
                       ],
                     ),
                     Image.asset(
-                      "assets/images/girl1.png", //////// change image /////////
+                      "assets/images/girl1.png",
                       height: 118.49,
                       width: 146.96,
                     ),
@@ -180,7 +180,7 @@ class _SecondHomeScreenState extends State<SecondHomeScreen> {
                     ),
                     SizedBox(width: 20),
                     Image.asset(
-                      "assets/images/girl2.png", //////// change image /////////
+                      "assets/images/girl2.png",
                       height: 125.08,
                       width: 140.8,
                     ),
@@ -204,7 +204,7 @@ class _SecondHomeScreenState extends State<SecondHomeScreen> {
             IconButton(
               icon: Icon(Icons.navigation_outlined),
               onPressed: () {
-                // Add your grid button functionality here
+
               },
             ),
             IconButton(
